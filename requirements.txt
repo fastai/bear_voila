@@ -1,0 +1,3 @@
+voila
+fastai2
+pillow<7
