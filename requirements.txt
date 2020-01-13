@@ -2,3 +2,4 @@ voila
 fastai2
 pillow<7
 packaging
+ipywidgets
