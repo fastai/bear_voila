@@ -4,3 +4,4 @@ fastcore==1.0.0
 pillow<7
 packaging
 ipywidgets==7.5.1
+torch==1.6.0
